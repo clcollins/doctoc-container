@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi8/nodejs-16:latest
+FROM registry.access.redhat.com/ubi9/nodejs-16-minimal:latest
 LABEL maintainer "Chris Collins <collins.christopher@gmail.com>"
 
 RUN npm install -g doctoc && npm cache clean --force
