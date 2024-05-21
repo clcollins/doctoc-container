@@ -1,3 +1,5 @@
+#This repository is archived and will no longer receive updates.
+
 # doctoc-container
 
 Containerized version of [https://github.com/thlorenz/doctoc](https://github.com/thlorenz/doctoc).
